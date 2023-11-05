@@ -1,0 +1,6 @@
+projectKey=Weather
+serverUrl=http://0.0.0.0:9001
+serverVersion=10.2.1.78527
+dashboardUrl=http://0.0.0.0:9001/dashboard?id=Weather
+ceTaskId=AYufetbbcrCS0gRyFbAG
+ceTaskUrl=http://0.0.0.0:9001/api/ce/task?id=AYufetbbcrCS0gRyFbAG
